@@ -1,0 +1,13 @@
+Comparison of alternate datatypes
+(listed from greatest to least)
+
+Numeric array
+Path
+String
+Boolean
+Numeric
+
+
+Observations:
+Data doesn't seem to matter if datatypes differ
+If two arrays of different dimensions or different datatypes are compared, the second one is greater.

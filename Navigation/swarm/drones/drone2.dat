@@ -1,0 +1,8 @@
+[drone]
+location=0,0
+color=#aa1144
+nav=2
+
+[checkpoints]
+now=0
+all=16,16 0,0
